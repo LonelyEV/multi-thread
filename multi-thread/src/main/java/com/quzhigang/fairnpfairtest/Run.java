@@ -22,9 +22,9 @@ public class Run {
 	
 	public static void main(String[] args) {
 		
-		//runFair(); //公平锁测试
+		runFair(); //公平锁测试
 		System.out.println("=========================================");
-		runNotFair(); //非公平锁测试
+		//runNotFair(); //非公平锁测试
 		
 	}
 	
